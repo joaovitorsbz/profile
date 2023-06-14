@@ -1,4 +1,4 @@
-# Welcome my profile! I'm João :wave: I hope can help you with some content ::sunglasses::
+# Welcome on my profile! I'm João :wave: I hope can help you with some content here :sunglasses:
 
 ## Tech Stack
 <div style="display: inline-block;">
